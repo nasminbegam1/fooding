@@ -1,0 +1,17 @@
+{
+  "name": "fooding",
+  "version": "1.0.0",
+  "description": "Fooding site for food lover",
+  "main": "index.js",
+  "scripts": {
+    "test": "nothis to say"
+  },
+  "author": "nasmin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.4",
+    "mysql": "2.x.x"
+  }
+}
